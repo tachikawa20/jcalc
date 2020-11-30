@@ -1,0 +1,14 @@
+JCALC v1.0b
+
+OS = DOS (x86)
+LANGUAGE = ENGLISH
+
+
+What's new?
+
++ Conversion between number systems
+
+
+Built-in language support:
+
+- English (United States)
